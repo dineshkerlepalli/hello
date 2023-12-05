@@ -13,3 +13,5 @@ def mul(a,b):
 def div(a,b):
     return a/b
 print('Wanted to perform a merge operation')
+
+print('1st commit')
