@@ -21,3 +21,7 @@ print('2nd commit')
 print('3rd commit')
 
 print('commit from new')
+
+print('ABC')
+
+print('DEF')
