@@ -15,3 +15,5 @@ def div(a,b):
 print('Wanted to perform a merge operation')
 
 print('1st commit')
+
+print('2nd commit')
